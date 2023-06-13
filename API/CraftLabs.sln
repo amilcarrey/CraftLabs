@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CraftLabs", "CraftLabs\CraftLabs.csproj", "{71D1C354-49F3-4B5A-8CC5-CFEFCF9928BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D1C354-49F3-4B5A-8CC5-CFEFCF9928BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D1C354-49F3-4B5A-8CC5-CFEFCF9928BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D1C354-49F3-4B5A-8CC5-CFEFCF9928BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D1C354-49F3-4B5A-8CC5-CFEFCF9928BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02AB9514-5CB5-49D8-A8D0-AF08E542D31F}
+	EndGlobalSection
+EndGlobal
